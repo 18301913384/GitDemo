@@ -6,4 +6,6 @@ import lombok.Data;
 public class Student {
     private String name;
     private Long id;
+    private String age；
+
 }
